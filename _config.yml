@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Coren Benavides"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Electrical engineering student interested in pwer electronics"
+  bio    : "Electrical engineering student interested in power electronics"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -73,7 +73,7 @@ author:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/corenjab/"
 
 footer:
   links:
@@ -85,7 +85,7 @@ footer:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/corenjab/"
 
 defaults:
   # _posts
