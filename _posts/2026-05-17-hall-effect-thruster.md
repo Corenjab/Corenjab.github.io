@@ -8,14 +8,14 @@ tags:
   - hardware
 ---
 
-  ## Overview
-  A power supply and sensors to power and monitor a Haall Effect Thruster.
+## Overview
+A power supply and sensors to power and monitor a Haall Effect Thruster.
 
-  ## Specifications
+## Specifications
 
 
-  ## Design Challenges
+## Design Challenges
 
-  ## Status
-  In progress. 
+## Status
+In progress...
   
