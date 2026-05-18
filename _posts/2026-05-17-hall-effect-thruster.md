@@ -1,12 +1,12 @@
 ---
-title : " Hall Effect Thruster PPU and sensor suite"
+title: " Hall Effect Thruster PPU and sensor suite"
 date: 2025-08-18
 catagories:
   - projects
-  tags:
+tags:
   - power electronics
-  -hardware
-  ---
+  - hardware
+---
 
   ## Overview
   A power supply and sensors to power and monitor a Haall Effect Thruster.
