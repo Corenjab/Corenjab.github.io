@@ -9,7 +9,7 @@ tags:
 ---
 
 ## Overview
-A power supply and sensors to power and monitor a Haall Effect Thruster.
+A power supply and sensors to power and monitor a Hall Effect Thruster.
 
 ## Specifications
 
