@@ -49,5 +49,8 @@ given a field strength of 2 T an armature length of 3.5 in, a mass of .01 kg, a 
 Before spending several hundred dollars on magnets and other materials for a 14 in. long barrel I figured I should check my numbers with a practical experiment, so I built a small and large demonstrator.   
 
 ## Build
-<img src="/assets/images/Halbach11.jpg" width="50%">
+Below you will see a proof of concept for the HAAR design that used only a single layer cylindrical Halbach array. it is made of two 1/2 in. 3D printed slices , that were glued together, and an inner barrel piece. My main fear with the HAAR design was that the magnetic fields of the individual Halbach arrays would cancel out because I was putting same pole to same pole, but the armature ran smoothly from one segment to the next meaning I did not have to worry about the fields canceling out.
 
+<img src="/assets/images/Halbach11.jpg" width="27%">
+<img src="/assets/images/Halbach12.jpg" width="27%">
+<img src="/assets/images/halbach13.jpg" width="27%">
