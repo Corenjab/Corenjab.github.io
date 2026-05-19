@@ -48,6 +48,6 @@ I found the best way to make sense of this equation was to plug all of my values
 given a field strength of 2 T an armature length of 3.5 in, a mass of .01 kg, a resistance of .03, an initial voltage of 440 and a capacitance of .015 Farads, I was able to calculate a maximum speed of around 117 m/s at time .006 s meaning we need a barrel length of aprox. .35 meters or around 14 in.
 Before spending several hundred dollars on magnets and other materials for a 14 in. long barrel I figured I should check my numbers with a practical experiment, so I built a small and large demonstrator.   
 
-##Build
-![Array one](/assets/image/Halbach11.jpg)
+## Build
+![Array one](/assets/images/Halbach11.jpg)
 
