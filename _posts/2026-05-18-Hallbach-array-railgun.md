@@ -48,9 +48,15 @@ I found the best way to make sense of this equation was to plug all of my values
 given a field strength of 2 T an armature length of 3.5 in, a mass of .01 kg, a resistance of .03, an initial voltage of 440 and a capacitance of .015 Farads, I was able to calculate a maximum speed of around 117 m/s at time .006 s meaning we need a barrel length of aprox. .35 meters or around 14 in.
 Before spending several hundred dollars on magnets and other materials for a 14 in. long barrel I figured I should check my numbers with a practical experiment, so I built a small and large demonstrator.   
 
-## Build
+## Build and Tests
 Below you will see a proof of concept for the HAAR design that used only a single layer cylindrical Halbach array. it is made of two 1/2 in. 3D printed slices , that were glued together, and an inner barrel piece. My main fear with the HAAR design was that the magnetic fields of the individual Halbach arrays would cancel out because I was putting same pole to same pole, but the armature ran smoothly from one segment to the next meaning I did not have to worry about the fields canceling out.
 
 <img src="/assets/images/Halbach11.jpg" width="27%">
 <img src="/assets/images/Halbach12.jpg" width="27%">
 <img src="/assets/images/halbach13.jpg" width="27%">
+
+The final test barrel assembly can be seen in the pictures below. As you can see the Halbach array is held together by a 3D printed frame which also acts as the barrel for the armature and projectile. the large slots on the sides are where the rails would travel and the holes around the perimeter are to bolt the segments of the barrel together. The numbers I had calculated for the field inside the center of the Halbach array were incorrect; as mentioned before instead of 2 T I had an average field strength across the armature of .12 T and a field in the center of around .6 T. I was able to find the actual field strength of the array by testing the larger test assembly, recording the projectile velocity and then working back wards from there using the equations shown earlier. although the Halbach array augmentation did not work, as well as I had hoped, the Integrated armature worked perfectly.    
+
+tests at 100 volts yielded an average velocity of 8 m/s
+
+tests at 200 volts yielded an average velocity of 16 m/s
