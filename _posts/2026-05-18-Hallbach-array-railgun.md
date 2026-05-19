@@ -62,3 +62,8 @@ tests at 100 volts yielded an average velocity of 8 m/s
 tests at 200 volts yielded an average velocity of 16 m/s
 
 <img src="/assets/images/Halbach21.jpg" width="50%">
+
+#210 Volt test video
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/J9kzttJ7Sb0"
+frameborder="0" allowfullscreen></iframe> 
