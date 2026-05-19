@@ -60,3 +60,5 @@ The final test barrel assembly can be seen in the pictures below. As you can see
 tests at 100 volts yielded an average velocity of 8 m/s
 
 tests at 200 volts yielded an average velocity of 16 m/s
+
+<img src="/assets/images/Halbach21.jpg" width="50%">
