@@ -18,9 +18,16 @@ The current between the cathode and anode is what supplies the charges that are 
 
 ## Current Documentation 
 
+### Power Proccesing Unit 
 <iframe src="/assets/files/HET-CD-003-(PPU).pdf" width="100%" height="600px"></iframe>
 
-[Download For Thermosouple documentation](/assets/files/HET-CD-004-(Thermocouple).pdf)
+[Download For PPU Documentation](/assets/files/HET-CD-003-(PPU).pdf)
+
+### Thermocouples
+<iframe src="/assets/files/HET-CD-004-(Thermocouple).pdf" width="100%" height="600px"></iframe>
+
+[Download For Thermocouple Documentation](/assets/files/HET-CD-004-(Thermocouple).pdf)
+
 
 ## Design Challenges
 
