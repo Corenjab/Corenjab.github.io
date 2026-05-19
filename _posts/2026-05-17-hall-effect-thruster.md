@@ -18,7 +18,7 @@ The current between the cathode and anode is what supplies the charges that are 
 
 ## Current Documentation 
 
-[View PDF](https://docs.google.com/document/d/1svPRzEsJbbt3mBCs-sO0TodGhaKEC3e8/view)
+
 
 ## Design Challenges
 
