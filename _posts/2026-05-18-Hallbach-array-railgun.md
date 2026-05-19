@@ -49,5 +49,5 @@ given a field strength of 2 T an armature length of 3.5 in, a mass of .01 kg, a 
 Before spending several hundred dollars on magnets and other materials for a 14 in. long barrel I figured I should check my numbers with a practical experiment, so I built a small and large demonstrator.   
 
 ## Build
-![Array one](/assets/images/Halbach11.jpg)
+<img src ="/assets/images/Halbach11.jpg" width ="50%">
 
