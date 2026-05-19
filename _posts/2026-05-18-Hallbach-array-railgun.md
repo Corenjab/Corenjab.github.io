@@ -72,3 +72,9 @@ frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/7sNkqAYGIEo"
 frameborder="0" allowfullscreen></iframe> 
+
+In conclusion, the IA worked perfectly and the Halbach array worked, but unfortunately not as well as I had hoped. This design was definitely a step in the right direction, but in order to get the results I want I am going to need a stronger augmentation field.
+
+Below is a simulation of the magnetic field strength of the double Halbach array. I was only able to figure out how to make these simulations after I had already built the prototype, but this now gives me greater incite into the reasons why it did not perform the way I had thought it would. I think the biggest problem is the gaps in the field where the the magnetic field is 2 to 4 times weaker than at the center.
+
+
