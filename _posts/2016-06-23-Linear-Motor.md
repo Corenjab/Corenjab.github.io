@@ -12,3 +12,7 @@ The linear motor project was started after the failure of Pr8, which was in earl
 <img src="/assets/images/Linear motor test track.jpg" width="50%">
 
 
+The linear motor test track was used to find the best distance from the coils to start the projectile. The projectile, a steel ball bearing, would bridge the gap between two copper rails which would allow current to flow from one coil through the rails and projectile and out through the other coil. Once the projectile was removed from the two rails the current would cease. 
+
+
+Results: The best distance for optimum speed is around 1 inch from the coils.
