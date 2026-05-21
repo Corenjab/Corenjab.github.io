@@ -1,7 +1,7 @@
 ---
 title: " Hall Effect Thruster PPU and sensor suite"
 date: 2025-08-18
-catagories: Railgun
+catagories: HET
 tags:
   - power electronics
   - hardware
