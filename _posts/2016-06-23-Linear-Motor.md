@@ -18,5 +18,5 @@ The linear motor test track was used to find the best distance from the coils to
 Results: The best distance for optimum speed is around 1 inch from the coils.
 
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/d17-JZCUR9c&t=1s"
+src="https://www.youtube.com/embed/d17-JZCUR9c"
 frameborder="0" allowfullscreen></iframe> 
