@@ -18,6 +18,7 @@ There are three main components of the hall effect thruster that need power: the
 The current between the cathode and anode is what supplies the charges that are used to generate our thrust. Therfore the thrust number of charges and therfore the thrust is directly proportional to the current supplied. The keeper is there to start the flow of charges and keep it hence its name. The electromagnets are needed to generate the field that enables the Hall current that causes the confinement of the electrons. The electrical team, under my direction, has been working closely with the other subteams in the club to design a power supply that will meet the needs of the components that they are designing. Over the course of this last semester the electrical team has has grown a lot in its capabilities in order to meet the design challenge it has been faced with. Attached is our current documentation and designs. Ther is still a lot we need to work on, but we will get it done. 
 
 ## Current Documentation 
+Below is some of our documentation. As of me writing this the documentation is still being written and what you see below is what we have to date. 
 
 ### Power Proccesing Unit 
 <iframe src="/assets/files/HET-CD-003-(PPU).pdf" width="100%" height="600px"></iframe>
@@ -29,8 +30,6 @@ The current between the cathode and anode is what supplies the charges that are 
 
 [Download For Thermocouple Documentation](/assets/files/HET-CD-004-(Thermocouple).pdf)
 
-
-## Design Challenges
 
 ## Status
 In progress...
