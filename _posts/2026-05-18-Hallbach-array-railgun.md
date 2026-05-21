@@ -1,8 +1,7 @@
 ---
 title: "Halbach array augmented rail gun."
 date: 2020-07-15
-catagories:
-  - railgun
+catagories: railgun
 tags:
   - electromagnetics
   - railgun
