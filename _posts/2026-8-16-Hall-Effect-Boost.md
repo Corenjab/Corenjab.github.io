@@ -41,6 +41,13 @@ Above is the updated schematic. After testing the previous circuit and changing 
 
 Above is an image of the proof of concept for one phase of the boost converter. It was soldered together on some perfboard. It is the original design that had an operating frequency of 20kHz.
 
+<img src="/assets/images/Boost test 2.jpg" width="80%">
+
+Above is an image of the test setup for testing two of the boost converter circuits in parallel and with a load. The input voltage of the boost converters was 24 volts. The input voltage for the gate driver was 12 volts. And the input voltage to the arduino is 5 volts from a usb power source. The boost converters were first tested with no load. They behaved similarly to a single boost converter. They were then tested with a 300 Ohm load. They were connected from an open circuit to a closed circuit and then disconnected again to simulate the expected operating procedure of the HET. The sudden disconnect from the load caused a failure in the circuits. When disconnected from the load the boost converter's output voltage jumped to above 1KV. At first it was suspected that the Mosfets had failed; upon testing them they were found to still be functional. Then it was noticed that even though the mosfets were disconnected from the circuit the gate drivers were still drawing current. The gate drivers were also getting noticeably hotter. All symptoms of an internal short in the gate driver I.C.. A solution to snub this voltage spike is needed and a more robust gate driver is needed. The TVS diodes were added to the design after this test to protect the gate drivers and mosfets. 
+
+
+
+
 
 
 
