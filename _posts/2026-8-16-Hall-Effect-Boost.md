@@ -19,6 +19,8 @@ The calculated control frequency  is 100Khz. The output capacitor is 13 uF. The 
 They have a max Vds of 700V, Vgs of 30V, and a pulsed current of 145A.
 
 <img src="/assets/images/Original Boost sim.png" width="80%">
+
+
 Above is the LTSpice circuit diagram  for the primary discharge circuit. R1 is the simulated load. 
 The load is expected to vary, but we don't really know by how much at this time. 
 The output voltage can be controlled by changing the duty cycle of the signals supplied to the mosfets. 
