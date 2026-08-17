@@ -36,6 +36,12 @@ Above is the first iteration of the circuit diagram of the primary discharge cir
 
 Above is the updated schematic. After testing the previous circuit and changing the driving frequency a few modifications were made. TVS diodes were added to protect the gat and mosfet. It was found during testing that if there was a sudden load disconnect it would fry the mosfets and or the gate driver. adding the TVS diodes solved the problem. There was also an issue where over a duty cycle of 31%  the output diodes would begin reverse conducting which would cause gate ringing, so the output diodes were updated to BSDH10G120E2. After increasing the frequency and doing more research I found the old mosfets to be inadequate in comparison to other options. The mosfets were updated to IPP65R065C7.   
 
+<img src="/assets/images/Boost test 1.jpg" width="80%">
+
+
+Above is an image of the proof of concept for one phase of the boost converter. It was soldered together on some perfboard. It is the original design that had an operating frequency of 20kHz.
+
+
 
 
 
