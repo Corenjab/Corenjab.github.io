@@ -1,6 +1,6 @@
 ---
 title: "Five Phase Boost Converter."
-date: 2026
+date: 2026-08-16
 categories: HET
 tags:
   - Power Electronics
