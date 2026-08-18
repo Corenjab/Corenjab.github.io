@@ -10,7 +10,7 @@ tags:
 ## Overview 
 The five phase boost converter was originally conceived as a power supply for the primary discharge of a Hall effect thruster I have been working on with my club. 
 The propulsion team determined we would need 1A at 400V based on their simulations and thrust expectations. this post is to catalog my work on the circuit design and show its progression.
-some portions of this post will be excerpts from the clubs documentation of the PPU. 
+Some portions of this post will be excerpts from the clubs documentation of the PPU. 
 
 The primary discharge current will be supplied by a multiphase boost converter.
 A multiphase boost converter was chosen for its capability to supply the required output voltage and current at a high efficiency. 
