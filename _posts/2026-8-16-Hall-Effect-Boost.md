@@ -51,8 +51,10 @@ Above is the test set up for the 5 phase boost converter test set up. This was t
 
 <img src="/assets/images/Broken diode.jpg" width="80%">
 
-Above is an image of the diode after it exploded. before it exploded the mosfets were turning on for no reason when the driving signals duty cycle exceeded 31%.
+Above is an image of the diode after it exploded. before it exploded the mosfets were turning on for no reason when the driving signals duty cycle exceeded 31%. The old diodes were replaced with some SiC Schottky diodes that I had on hand specifically the C3D04060A. After replacing all of the old output diodes with the C3D04060A the converter was able to handle the previous tests at 24 volt input voltage and 300 Ohm load. A test with an input of 48 volts gave good results i.e. nothing broke. My 48 volt power supply however was only able to provide 5 amps before it hit its limit. 
+At this limit an efficiency of 84% was observed but the output voltage maxed out at around 250 V. This was also with only four working phases.   
 
+<img src="/assets/images/boost test results.jpg" width="80%">
 
 
 
