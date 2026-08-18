@@ -16,6 +16,7 @@ The primary discharge current will be supplied by a multiphase boost converter.
 A multiphase boost converter was chosen for its capability to supply the required output voltage and current at a high efficiency. 
 It will consist of five phases; each phase will lead the previous phase by 1/5th of a period. 
 The calculated control frequency was originally 20 Khz but was bumped up to 100 Khz so that we can use smaller inductors as the original inductors were on backorder. Because of the increase in frequency better mosfets were needed. 
+The design and calculations were done with the aid of a document publish by Texas Instruments titled Basic Calculation of a Boost Converter's Power Stage (Rev. D).
 
 <img src="/assets/images/Original Boost sim.png" width="80%">
 
