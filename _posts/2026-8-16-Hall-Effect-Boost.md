@@ -62,6 +62,12 @@ Above is an image of the said test. After the tests I tried my hand at PCB desig
 
 When designing this board I was not familiar with many tools in Altium specifically polygon pours. Had I know about them I would have used them for the input 48 Volt to the fuse and the output power rail. Unfortunately I sent this board to be made before I knew about said features. It is a four layer board. The stack up is: signal, gnd, 48V, and signal.  
 
+  The boards have been made and delivered to me. At the time of writing this I am waiting on components to arrive to full assemble and test it. 
+
+  <img src="/assets/images/Boost board pic.jpg" width="80%">
+
+  
+
 
 
 
